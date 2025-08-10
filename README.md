@@ -6,8 +6,8 @@ This project highlights my expertise in FPGA-based digital signal processing and
 
 
 
-                                                         <img width="502" height="693" alt="image" src="https://github.com/user-attachments/assets/60e8d0c4-2a24-404a-93d5-bc18fd514d65" />
+ <img width="502" height="693" alt="image" src="https://github.com/user-attachments/assets/60e8d0c4-2a24-404a-93d5-bc18fd514d65" />
 
 
 
-                                                          <img width="662" height="411" alt="image" src="https://github.com/user-attachments/assets/476c4d1b-ac11-4a24-85dd-dd92ce5f04f5" />
+   <img width="662" height="411" alt="image" src="https://github.com/user-attachments/assets/476c4d1b-ac11-4a24-85dd-dd92ce5f04f5" />
